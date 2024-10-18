@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  k8s-slurm-cluster:
+  - apiVersion: v2
+    created: "2024-10-18T11:47:15.504521475+01:00"
+    description: A Helm chart for Slurm in K8s
+    digest: 73c97612c7f48b949d7ba72ed4d18b0118107e83ec07ad53fb10bb509f0cbb02
+    name: k8s-slurm-cluster
+    urls:
+    - https://tsew.github.io/your-repo/k8s-slurm-cluster-1.0.7.tgz
+    version: 1.0.7
+generated: "2024-10-18T11:47:15.50331296+01:00"
